@@ -7,7 +7,7 @@
   "dependencies": {
     "botkit": "0.0.12",
     "dotenv": "^2.0.0"
-  }
+  },
   "devDependencies": {},
   "scripts": {}
 }
