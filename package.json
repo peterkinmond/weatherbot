@@ -1,0 +1,13 @@
+{
+  "name": "weatherbot",
+  "version": "0.0.1",
+  "description": "Slack bot that tells weather",
+  "repository": "https://github.com/peterkinmond/weatherbot.git",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "0.0.12",
+    "dotenv": "^2.0.0"
+  }
+  "devDependencies": {},
+  "scripts": {}
+}
