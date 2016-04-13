@@ -8,4 +8,4 @@ Slack bot to tell current weather conditions based on [Botkit](https://github.co
 
 ### Usage in Slack
 
-Type `weather` + city name to get current weather conditions (for example `weather Boston, MA` or `weather Ottawa, Canada`
+Type `weather` + city name to get current weather conditions (for example `weather Boston, MA` or `weather Ottawa, Canada`)
