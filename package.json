@@ -5,7 +5,7 @@
   "repository": "https://github.com/peterkinmond/weatherbot.git",
   "license": "MIT",
   "dependencies": {
-    "botkit": "0.0.12",
+    "botkit": "0.0.14",
     "dotenv": "^2.0.0"
   },
   "devDependencies": {},
